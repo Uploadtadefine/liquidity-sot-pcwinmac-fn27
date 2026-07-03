@@ -1,4 +1,4 @@
-# 
+# محدث liquidity sniper bot سير العمل لـ Mac OS | نخبة liquidity sniper bot سير العمل لـ PC Windows. مع إشعارات التنبيه و تلاعب بـ nonce — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
